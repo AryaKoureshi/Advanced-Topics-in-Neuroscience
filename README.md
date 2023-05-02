@@ -46,10 +46,10 @@ In this assignment we are going to analyze the activity of local field potential
 In this task, a monkey learns to follow instruction to receive tasty juice as reward. At first, the monkey should keep its eyes on a fixation point in center of screen (red/green circle). To make sure monkey is looking at the desired point, we follow its eyes using an eye tracker. After a random duration between 300 to 500 ms fixating at fixation point, a cue will be presented in the periphery. Monkey must remember the spatial position of cue to either saccade or reach to that point after waiting for center light offset. At the end, based on the color of target monkey reach/saccade to the expected location. If the monkey saccade/reach in the correct position, he will receive tasty juice!
 ### Data Description
 After the monkey gets fully trained in the task, we start recording from the Premotor Area F5, using an electrode array. This array includes 49 single electrodes distributed in an area of $12𝑚𝑚^2$. Distance between neighboring electrodes are 400 𝜇𝑚. In assignment folder you can find a session of electrophysiological recordings including timing of task.
-### [Data](https://drive.google.com/file/d/10ZDjIfTTnw_BUO3UzsCGDLYa-_2wyBYn/view?usp=share_link)
+### [Data](https://drive.google.com/file/d/1PalKnMMMLB7FbtcpTIyX80JtU_bxoHky/view?usp=sharing)
 ### [Papers](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Traveling-Waves/Papers)
 ### [Codes](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Traveling-Waves/Code)
 ### [Report](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Traveling-Waves/AdvNeuro_HW4_AryaKoureshi.html)
-### [Video]()
+### [Video](https://drive.google.com/file/d/1H-EmWqvBV9jc2h9_6h7wOWV_yNbEeUnD/view?usp=sharing)
 
 ---
