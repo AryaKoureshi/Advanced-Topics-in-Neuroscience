@@ -53,3 +53,17 @@ After the monkey gets fully trained in the task, we start recording from the Pre
 ### [Video](https://drive.google.com/file/d/1H-EmWqvBV9jc2h9_6h7wOWV_yNbEeUnD/view?usp=sharing)
 
 ---
+
+## [Simulation #5 (Motivation and Classical Conditioning)](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Motivation-and-Classical-Conditioning)
+### Aim
+Modelling learning in classical conditioning paradigms
+### Description
+We often need to rapidly learn about the value of new stimuli that we encounter or be ready for changes to familiar stimulus values that we were familiar without prior notice. Classical conditioning includes a large group of paradigms where different combination of reward histories with stimuli can form our judgement about their current values.
+
+A well know model in classical conditioning and reinforcement learning is the Rescola-Wagner. This model predicts that violations of our expected reward for each stimuli or combination of stimuli causes incremental changes in our belief about their values.
+
+### [Papers](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Motivation-and-Classical-Conditioning/Papers)
+### [Report](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Motivation-and-Classical-Conditioning/AdvNeuro_HW5_AryaKoureshi.html)
+
+---
+
