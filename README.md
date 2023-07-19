@@ -22,7 +22,7 @@ Studying the population response structure
 Uncertainty is a ubiquitous component of our environment, such that humans and animals are regularly confronted with conditions that vary in degrees of uncertainty. It is therefore a fundamental requirement of our brain systems to accurately process uncertain information so that we may function appropriately, both in our mundane day-to-day activities and in more profound moments. Many brain regions including the frontal cortex, basal ganglia, amygdala, parietal cortex, cingulate cortex, and insular cortex have been identified as key areas in processing information about uncertain rewards. In this assignment we are going to analyze the activity of a population of single units recorded with multi-electrode array in Parietal cortex. The task is designed to study the encoding of reward expected value in area 7a. This area encodes the spatial location of cue.
 ### [Papers](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Neural-Encoding/2/Papers)
 ### [Data](https://drive.google.com/file/d/1FdO7RF8IJpGe76sMRqa2oDxob_IUnzYs/view?usp=share_link)
-### [Codes](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Neural-Encoding/2/Codes)
+### [Code](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Neural-Encoding/2/Codes)
 ### [Report](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Neural-Encoding/2/AdvNeuro_HW2_AryaKoureshi.html)
 
 ---
@@ -34,7 +34,7 @@ Irregular spontaneous activity, i.e., activity that is not related in any obviou
 Information about the data including cells, stimuli and format of the data are in crcns_pvc-11_data_description file. For further details on how the data were obtained, see the reference 2.
 ### [Data](https://drive.google.com/file/d/10ZDjIfTTnw_BUO3UzsCGDLYa-_2wyBYn/view?usp=share_link)
 ### [Papers](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Noise-Correlation/Papers)
-### [Codes](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Noise-Correlation/Codes)
+### [Code](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Noise-Correlation/Codes)
 ### [Report](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Noise-Correlation/AdvNeuro_HW3_AryaKoureshi.html)
 
 ---
@@ -48,9 +48,10 @@ In this task, a monkey learns to follow instruction to receive tasty juice as re
 After the monkey gets fully trained in the task, we start recording from the Premotor Area F5, using an electrode array. This array includes 49 single electrodes distributed in an area of $12𝑚𝑚^2$. Distance between neighboring electrodes are 400 𝜇𝑚. In assignment folder you can find a session of electrophysiological recordings including timing of task.
 ### [Data](https://drive.google.com/file/d/1PalKnMMMLB7FbtcpTIyX80JtU_bxoHky/view?usp=sharing)
 ### [Papers](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Traveling-Waves/Papers)
-### [Codes](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Traveling-Waves/Code)
+### [Code](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Traveling-Waves/Code)
 ### [Report](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Traveling-Waves/AdvNeuro_HW4_AryaKoureshi.html)
-### [Video](https://drive.google.com/file/d/1H-EmWqvBV9jc2h9_6h7wOWV_yNbEeUnD/view?usp=sharing)
+### [Video](https://drive.google.com/file/d/1qfLWo0i4vuWrkFz_yl4cc-hHGifxVBX9/view?usp=sharing)
+### [Results](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Traveling-Waves/Results)
 
 ---
 
