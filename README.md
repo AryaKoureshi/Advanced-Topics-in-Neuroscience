@@ -63,8 +63,20 @@ We often need to rapidly learn about the value of new stimuli that we encounter 
 
 A well know model in classical conditioning and reinforcement learning is the Rescola-Wagner. This model predicts that violations of our expected reward for each stimuli or combination of stimuli causes incremental changes in our belief about their values.
 
+### [Notebook (Code)](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Motivation-and-Classical-Conditioning/AdvNeuro_HW5_AryaKoureshi.ipynb)
 ### [Papers](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Motivation-and-Classical-Conditioning/Papers)
 ### [Report](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Motivation-and-Classical-Conditioning/AdvNeuro_HW5_AryaKoureshi.html)
 
 ---
 
+## [Simulation #6 (Reinforcement Learning)](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Reinforcement-Learning)
+### Learning the Water Maze
+As an example of generalized reinforcement learning, we consider the water maze task. This is a navigation problem in which rats are placed in a large pool of milky water and have to swim around until they find a small platform that is submerged slightly below the surface of the water. The opaqueness of the water prevents them from seeing the platform directly, and their natural aversion to water (although they are competent swimmers) motivates them to find the platform. After several trials, the rats learn the location of the platform and swim directly to it when placed in the water.
+We are going to simulate a simple model of navigation problem.
+
+### [Code](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Reinforcement-Learning/Code)
+### [Papers](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Reinforcement-Learning/Papers)
+### [Report](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Reinforcement-Learning/AdvNeuro_HW6_AryaKoureshi.html)
+### [Results](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Reinforcement-Learning/Results)
+
+---
