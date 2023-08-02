@@ -103,3 +103,15 @@ For many applications in graphics, design, and human computer interaction, it is
 ### [Results](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Visual-Attention/Results)
 
 ---
+
+## [Simulation #9 (Visual Model)](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Visual-Model)
+### Aim
+Study the sparse representation of natural image statistics as the receptive fields of simple cells in primary visual cortex.
+Several computational studies conducted since Barlow made this proposal have demonstrated more concretely the relationship between sparsity and the statistics of natural scenes. In the visual system, for example, the images that fall upon the retina when viewing the natural world have a relatively regular statistical structure, which arises from the contiguous structure of objects and surfaces in the environment. Field has shown that the receptive field properties of simple-cells in primary visual cortex (V1) are well suited to this structure, in that they produce sparse representations. Olshausen had subsequently showed that, when the receptive fields of an entire population of neurons are optimized to produce sparse representations, that the set of receptive fields that emerge resemble those of simple-cells.
+
+### [Code](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Visual-Model/Code)
+### [Papers](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Visual-Model/Papers)
+### [Report](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Visual-Model/AdvNeuro_HW9_AryaKoureshi.html)
+### [Results](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Visual-Model/Results)
+
+---
