@@ -91,3 +91,15 @@ Simulation of evidence accumulation model and studying the relationship between 
 ### [Results](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Evidence-Accumulation/Results)
 
 ---
+
+## [Simulation #8 (Visual Attention)](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Visual-Attention)
+### Learning to predict where humans look
+For many applications in graphics, design, and human computer interaction, it is essential to understand where humans look in a scene. Where eye tracking devices are not a viable option, models of saliency can be used to predict fixation locations. Most saliency approaches are based on bottom-up computation that does not consider top-down image semantics and often does not match actual eye movements. To address this problem, we used eye tracking data of 15 viewers on 1003 images and use this database as training and testing examples to learn a model of saliency based on low, middle and high-level image features. This large database of eye tracking data is publicly available with the paper (Tilke Judd).
+### [Database](http://people.csail.mit.edu/tjudd/WherePeopleLook/index.html)
+
+### [Code](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Visual-Attention/Code)
+### [Papers](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Visual-Attention/Papers)
+### [Report](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Visual-Attention/AdvNeuro_HW8_AryaKoureshi.html)
+### [Results](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Visual-Attention/Results)
+
+---
