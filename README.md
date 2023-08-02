@@ -80,3 +80,14 @@ We are going to simulate a simple model of navigation problem.
 ### [Results](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Reinforcement-Learning/Results)
 
 ---
+
+## [Simulation #7 (Evidence Accumulation)](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Evidence-Accumulation)
+### Aim
+Simulation of evidence accumulation model and studying the relationship between accuracy and reaction time (RT) in decision making.
+
+### [Code](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Evidence-Accumulation/Code)
+### [Papers](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Evidence-Accumulation/Papers)
+### [Report](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Evidence-Accumulation/AdvNeuro_HW7_AryaKoureshi.html)
+### [Results](https://github.com/AryaKoureshi/Advanced-Topics-in-Neuroscience/tree/main/Evidence-Accumulation/Results)
+
+---
